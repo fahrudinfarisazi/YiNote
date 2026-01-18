@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869003631628",
+    "project_id": "yi-note",
+    "storage_bucket": "yi-note.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869003631628:android:859b0322340dec885f2229",
+        "android_client_info": {
+          "package_name": "com.faris.yinote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869003631628-e95k7tlue9k4eovt9nskqmglvifc3iml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faris.yinote",
+            "certificate_hash": "3ccde6cd6e4e28ceb265aa937a50cd7c072fbc29"
+          }
+        },
+        {
+          "client_id": "869003631628-vj1m1rmobungugfp2mkpq6ij2ndt9asd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBJ_W8ANQt52gRNWjJrLoeta3S7LWO94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869003631628-vj1m1rmobungugfp2mkpq6ij2ndt9asd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
