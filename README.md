@@ -1,0 +1,1 @@
+YiNote: Aplikasi Note Android (Tugas Kampus). Tech: Android Studio & Firebase. ⚠️ Status: Masih banyak error! Bug utama: sinkronisasi Firebase sering telat & UI glitch saat ngetik. Sedang diperbaiki terus sambil belajar integrasi database cloud. Masih tahap trial-error, update rutin dilakukan! Mohon maklum jika sering crash.
