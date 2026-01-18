@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.YiNote" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/color_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorSecondaryVariant">@color/color_gray</item>
+        <item name="colorOnSecondary">@color/text_black</item>
+
+        <!-- Custom EditText Style -->
+        <item name="editTextStyle">@style/EditTextStyle</item>
+        <item name="android:editTextStyle">@style/EditTextStyle</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColorHint">@color/hint_color</item>
+    </style>
+
+    <!-- Custom EditText Style -->
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColorHint">@color/hint_color</item>
+        <item name="android:background">@color/edit_text_bg</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
